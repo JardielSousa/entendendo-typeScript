@@ -1,0 +1,23 @@
+{
+  "name": "Entendendo-typeScript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JardielSousa/entendendo-typeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JardielSousa/entendendo-typeScript/issues"
+  },
+  "homepage": "https://github.com/JardielSousa/entendendo-typeScript#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
